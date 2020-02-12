@@ -5,3 +5,4 @@ def reverse_each_word(sentence)
   end
   "#{new_phrase}"
 end 
+end
