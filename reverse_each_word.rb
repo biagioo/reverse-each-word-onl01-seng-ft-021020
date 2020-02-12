@@ -1,4 +1,5 @@
 def reverse_each_word(sentence)
-  sentence.split
-  sentence.collect{|word| word} 
-end 
+  sentence_array = sentence.split 
+  return sentence_array
+  
+end
