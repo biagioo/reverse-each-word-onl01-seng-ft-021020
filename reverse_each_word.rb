@@ -3,5 +3,5 @@ def reverse_each_word(sentence)
   sentence.each do |word| 
     new_phrase << #{word.reverse} 
   end
-  new_phrase
+  "#{new_phrase}"
 end 
